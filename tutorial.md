@@ -24,9 +24,9 @@ This ensures that the entire string matches the specified pattern, rather than j
 
 The {} culy brackets are called quantifiers & specify the exact number of occurrences of the preceding element.
 
-\d{3} matches with exactly three digits.
-\d{2} matches with exactly two digits.
-\d{4} matches with exactly four digits.
+\d{3} means its exactly three digits.
+\d{2} means its exactly two digits.
+\d{4} means its exactly four digits.
 
 3. Character Classes 
 
@@ -37,3 +37,6 @@ when Combined, \d{3}-\d{2}-\d{4} matches a sequence of three digits followed by 
 4. Author
 
 This tutorial was written by [Your Name], a passionate web development enthusiast dedicated to simplifying complex concepts for fellow learners. For more tutorials and projects, visit Your GitHub Profile.
+
+
+gist link: https://gist.github.com/GxUniverse/ab50dbd034370222cc720cff554d2407
